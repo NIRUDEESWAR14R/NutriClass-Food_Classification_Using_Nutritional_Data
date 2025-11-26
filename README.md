@@ -79,7 +79,7 @@ Trained and compared multiple classifiers:
 - K-Nearest Neighbors (KNN)  
 - Support Vector Machine (SVM)  
 - XGBoost  
-- (*Optional*) Gradient Boosting Classifier  
+- Gradient Boosting Classifier  
 
 ---
 
@@ -94,18 +94,20 @@ Each model was evaluated using:
 - **Confusion Matrix**
 
 ### 📌 Example Result Summary  
-(Evaluate using your notebook output)
 
 | Model | Accuracy |
 |-------|----------|
-| Logistic Regression | ... |
-| Decision Tree | ... |
-| Random Forest | ... |
-| KNN | ... |
-| SVM | ... |
-| XGBoost | ... |
+| Logistic Regression | 0.9917171073590315 |
+| Decision Tree | 0.9859827970691303 |
+| Random Forest | 0.9925135393437401 |
+| KNN | 0.9917171073590315 |
+| SVM | 0.9942656897100988 |
+| XGBoost | 0.9936285441223319 |
 
-> 🏆 **Best Model:** Replace this with your actual best model (e.g., XGBoost or Random Forest)
+> 🏆 **Best Model:**
+>
+> 
+> <img width="531" height="488" alt="SVM" src="https://github.com/user-attachments/assets/1b9ef20c-5793-4056-9d0c-f0d53ee266c7" />
 
 ---
 
@@ -113,13 +115,47 @@ Each model was evaluated using:
 
 The project includes:
 
-- Class distribution chart  
-- Boxplots  
-- Correlation heatmap  
-- Confusion matrices for all models  
-- (Optional) Feature importance for tree-based models  
+- Class distribution chart
+  
+  <img width="580" height="511" alt="class_distribution" src="https://github.com/user-attachments/assets/7b8c4b9e-ed5a-431d-9725-d6a246737918" />
+
+- Boxplots
+  
+  <img width="1149" height="601" alt="boxplot" src="https://github.com/user-attachments/assets/ceee641d-2f0d-4497-8120-e37b89807186" />
+
+- Correlation heatmap
+
+  <img width="863" height="623" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/cc737aa8-2bcf-44e3-9324-03728d115007" />
+
+- Confusion matrices for all models
+
+   <img width="534" height="470" alt="confusion_matrix_XGB" src="https://github.com/user-attachments/assets/deefadb7-54ef-45fb-bca9-da68d511e90f" />
+   <img width="534" height="470" alt="confusion_matrix_SVM" src="https://github.com/user-attachments/assets/d85d945a-a53c-42b1-9f0b-beda3a384b64" />
+   <img width="682" height="602" alt="confusion_matrix_RF" src="https://github.com/user-attachments/assets/6fa726a2-2efc-4cb1-a84c-de0228599236" />
+   <img width="680" height="598" alt="confusion_matrix_LR" src="https://github.com/user-attachments/assets/2bb652ec-b2f7-49cb-b018-78dacdc2339b" />
+   <img width="534" height="470" alt="confusion_matrix_KNN" src="https://github.com/user-attachments/assets/d7953af7-dacb-4802-a66c-f7627e21f92f" />
+   <img width="534" height="470" alt="confusion_matrix_GB" src="https://github.com/user-attachments/assets/e3ad4937-13b9-40ff-8428-e7cdfd146bd3" />
+   <img width="683" height="602" alt="confusion_matrix_DT" src="https://github.com/user-attachments/assets/8f904d5a-3154-46c1-a717-48111be92198" />
+
+
+
 
 ---
 
 ## 📚 Project Structure
 
+
+![Untitled - Frame 1 (1)](https://github.com/user-attachments/assets/96adaf1e-2667-4611-9ead-d2b2225f68f7)
+
+
+---
+
+## 👨‍💻 Developer
+ 
+  Nirudeeswar R
+ 
+ 📍 Chennai
+ 
+ 🎓 B.Tech CSE
+ 
+ 📧 nirudeeswarr14@gmail.com
