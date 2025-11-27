@@ -145,7 +145,8 @@ The project includes:
 ## 📚 Project Structure
 
 
-![Untitled - Frame 1 (1)](https://github.com/user-attachments/assets/96adaf1e-2667-4611-9ead-d2b2225f68f7)
+![Untitled - Frame 1 (3)](https://github.com/user-attachments/assets/9df43fa3-40b5-48f3-846a-c394761ec228)
+
 
 
 ---
