@@ -109,6 +109,14 @@ Each model was evaluated using:
 > 
 > <img width="531" height="488" alt="SVM" src="https://github.com/user-attachments/assets/1b9ef20c-5793-4056-9d0c-f0d53ee266c7" />
 
+#### FEATURE IMPORTANCE 
+
+<img width="497" height="52" alt="Screenshot 2025-11-27 154144" src="https://github.com/user-attachments/assets/5794b0fa-934e-4e5d-b569-3f37cbd18001" />
+<img width="989" height="590" alt="FEATURE_IMPORTANCE_XGB" src="https://github.com/user-attachments/assets/fcdd7aa2-9770-4322-ab8a-dd8c4182c4ca" />
+<img width="989" height="590" alt="FEATURE_IMPORTANCE_rf" src="https://github.com/user-attachments/assets/de9f837f-94ea-4f3c-bc27-00f6db4069b9" />
+<img width="990" height="590" alt="FEATURE_IMPORTANCE_GB" src="https://github.com/user-attachments/assets/2b580a10-fa91-4856-8fb8-35165daf10cc" />
+<img width="990" height="590" alt="FEATURE_IMPORTANCE_dt" src="https://github.com/user-attachments/assets/753d6023-cd6b-4736-9b63-91275a4e2269" />
+
 ---
 
 ## 📉 Visualizations
